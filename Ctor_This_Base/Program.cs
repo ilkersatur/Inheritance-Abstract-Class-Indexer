@@ -1,0 +1,3 @@
+﻿//ctor larda this ve base kullanımı....
+//this--------aynı sınıfın ctorları arasında veri aktarmak için kullanılır
+//base--------türeyen sınıflarda bir sınıfı base classının ctoruna veri aktarmak için kullanılır
